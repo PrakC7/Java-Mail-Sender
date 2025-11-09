@@ -4,9 +4,9 @@ import java.util.Properties;
 import javax.mail.*;
 import javax.mail.internet.*;
 
-// ---------------------------------------------
+
 // Part 1: Email UI
-// ---------------------------------------------
+
 class EmailUI extends JFrame {
     JTextField senderField, recipientField, subjectField;
     JTextArea messageArea;
@@ -42,9 +42,9 @@ class EmailUI extends JFrame {
     }
 }
 
-// ---------------------------------------------
+
 // Part 2: Email Data Model
-// ---------------------------------------------
+
 class EmailData {
     private String sender, recipient, subject, message;
 
@@ -61,9 +61,9 @@ class EmailData {
     public String getMessage() { return message; }
 }
 
-// ---------------------------------------------
+
 // Part 3: SMTP Email Sender
-// ---------------------------------------------
+
 class EmailSender {
     public static boolean sendEmail(EmailData data, String password) {
         try {
@@ -94,9 +94,9 @@ class EmailSender {
     }
 }
 
-// ---------------------------------------------
+
 // Part 4: Main Controller
-// ---------------------------------------------
+
 public class EmailApp {
     public static void main(String[] args) {
         EmailUI ui = new EmailUI();
