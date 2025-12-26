@@ -16,7 +16,7 @@ and <strong>JavaMail API</strong> for handling email delivery securely and effic
 </ul>
 
 <h2>🧱 Project Structure</h2>
-<p>The project is divided into four parts to support teamwork and clarity:</p>
+<p>The project is divided into four parts to support clarity:</p>
 <table>
   <tr><th>Part</th><th>Section</th><th>Description</th></tr>
   <tr><td>1️⃣</td><td>Email UI</td><td>Builds the user interface using Java Swing</td></tr>
@@ -52,15 +52,6 @@ and <strong>JavaMail API</strong> for handling email delivery securely and effic
   <li>If failed, you’ll see “Failed to Send Email.”</li>
 </ul>
 
-<h2>👨‍💻 Team Division Example</h2>
-<table>
-  <tr><th>Member</th><th>Responsibility</th></tr>
-  <tr><td>Member 1</td><td>GUI Design (Part 1)</td></tr>
-  <tr><td>Member 2</td><td>Data Model (Part 2)</td></tr>
-  <tr><td>Member 3</td><td>SMTP Logic (Part 3)</td></tr>
-  <tr><td>Member 4</td><td>Main Controller & Integration (Part 4)</td></tr>
-</table>
-
 <h2>🧠 Notes</h2>
 <ul>
   <li>Internet connection must be active.</li>
@@ -72,7 +63,7 @@ and <strong>JavaMail API</strong> for handling email delivery securely and effic
 <p>
 This project demonstrates a <strong>modular, object-oriented Java application</strong> that combines
 <strong>GUI development</strong> and <strong>email networking</strong> concepts.  
-It is lightweight, efficient, and clearly divided for <strong>team collaboration</strong>.
+It is lightweight, efficient.
 </p>
 
 <p><strong>✔ Simple • Fast • Functional • Team-Friendly</strong></p>
