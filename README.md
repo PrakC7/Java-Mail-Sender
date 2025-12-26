@@ -66,4 +66,4 @@ This project demonstrates a <strong>modular, object-oriented Java application</s
 It is lightweight, efficient.
 </p>
 
-<p><strong>✔ Simple • Fast • Functional • Team-Friendly</strong></p>
+
