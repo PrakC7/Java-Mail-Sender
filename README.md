@@ -6,6 +6,17 @@ through an SMTP server (like Gmail). The application uses <strong>Swing</strong>
 and <strong>JavaMail API</strong> for handling email delivery securely and efficiently.
 </p>
 
+This repository is open for learning and educational purposes only.
+
+You may:
+- Read and learn from the code
+- Fork the repository for personal learning
+
+You may not:
+- Re-upload the repository as your own work
+- Use the content commercially without permission
+- Remove original credits
+  
 <h2>🧩 Features</h2>
 <ul>
   <li>Simple and responsive GUI using Swing</li>
